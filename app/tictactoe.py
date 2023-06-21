@@ -9,7 +9,7 @@ XO = 'X'
 AI = 'O'
 fps = 30
 CLOCK = pg.time.Clock()
-
+change = 'P'
 # Set up the game window
 screen = pg.display.set_mode((400, 400), 0, 32)
 pg.display.set_caption("IMPOSSIBLE Tic Tac Toe")
